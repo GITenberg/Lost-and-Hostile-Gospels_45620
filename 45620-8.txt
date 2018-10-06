@@ -3,10 +3,13 @@ Gould
 
 
 
-This eBook is for the use of anyone anywhere at no cost and with almost no
-restrictions whatsoever. You may copy it, give it away or re-use it under
-the terms of the Project Gutenberg License included with this eBook or
-online at http://www.gutenberg.org/license
+This ebook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+http://www.gutenberg.org/license. If you are not located in the United
+States, you'll have to check the laws of the country where you are located
+before using this ebook.
 
 
 
@@ -357,7 +360,7 @@ Paul's natural tendency is unmistakable; and we may see evidence of divine
 guidance in the fact of his having refused to give the rein to his natural
 propensities, and of being prepared to turn all his energies to the
 repairing of those dykes against the ocean which in a moment of impatience
-he had act his hand to tear down.
+he had set his hand to tear down.
 
 As Socrates was by nature prone to become the most vicious of men, so was
 Paul naturally disposed to become the most dangerous of heresiarchs. But
@@ -1864,7 +1867,7 @@ Godhead of Christ.
 
 If for a century the churches founded by St. Paul were sick with moral
 disorders, wherewith they were inoculated, the vitality of orthodox belief
-in the Godhead of Christ proved, stronger than moral heresy, cast it out,
+in the Godhead of Christ proved stronger than moral heresy, cast it out,
 and left only the scars to tell what they had gone through in their
 infancy.
 
@@ -11190,21 +11193,21 @@ This and all associated files of various formats will be found in:
 Updated editions will replace the previous one -- the old editions will be
 renamed.
 
-Creating the works from public domain print editions means that no one
-owns a United States copyright in these works, so the Foundation (and
-you!) can copy and distribute it in the United States without permission
-and without paying copyright royalties. Special rules, set forth in the
-General Terms of Use part of this license, apply to copying and
-distributing Project Gutenberg{~TRADE MARK SIGN~} electronic works to protect the Project
-Gutenberg{~TRADE MARK SIGN~} concept and trademark. Project Gutenberg is a registered
-trademark, and may not be used if you charge for the eBooks, unless you
-receive specific permission. If you do not charge anything for copies of
-this eBook, complying with the rules is very easy. You may use this eBook
-for nearly any purpose such as creation of derivative works, reports,
-performances and research. They may be modified and printed and given away
--- you may do practically _anything_ with public domain eBooks.
-Redistribution is subject to the trademark license, especially commercial
-redistribution.
+Creating the works from print editions not protected by U.S. copyright law
+means that no one owns a United States copyright in these works, so the
+Foundation (and you!) can copy and distribute it in the United States
+without permission and without paying copyright royalties. Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg{~TRADE MARK SIGN~} electronic works to protect
+the Project Gutenberg{~TRADE MARK SIGN~} concept and trademark. Project Gutenberg is a
+registered trademark, and may not be used if you charge for the ebooks,
+unless you receive specific permission. If you do not charge anything for
+copies of this ebook, complying with the rules is very easy. You may use
+this ebook for nearly any purpose such as creation of derivative works,
+reports, performances and research. They may be modified and printed and
+given away -- you may do practically _anything_ in the United States with
+ebooks not protected by U.S. copyright law. Redistribution is subject to
+the trademark license, especially commercial redistribution.
 
 
 
@@ -11262,14 +11265,14 @@ The Project Gutenberg Literary Archive Foundation ("the Foundation" or
 PGLAF), owns a compilation copyright in the collection of Project
 Gutenberg{~TRADE MARK SIGN~} electronic works. Nearly all the individual works in the
 collection are in the public domain in the United States. If an individual
-work is in the public domain in the United States and you are located in
-the United States, we do not claim a right to prevent you from copying,
-distributing, performing, displaying or creating derivative works based on
-the work as long as all references to Project Gutenberg are removed. Of
-course, we hope that you will support the Project Gutenberg{~TRADE MARK SIGN~} mission of
-promoting free access to electronic works by freely sharing Project
-Gutenberg{~TRADE MARK SIGN~} works in compliance with the terms of this agreement for
-keeping the Project Gutenberg{~TRADE MARK SIGN~} name associated with the work. You can
+work is unprotected by copyright law in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative works
+based on the work as long as all references to Project Gutenberg are
+removed. Of course, we hope that you will support the Project Gutenberg{~TRADE MARK SIGN~}
+mission of promoting free access to electronic works by freely sharing
+Project Gutenberg{~TRADE MARK SIGN~} works in compliance with the terms of this agreement
+for keeping the Project Gutenberg{~TRADE MARK SIGN~} name associated with the work. You can
 easily comply with the terms of this agreement by keeping this work in the
 same format with its attached full Project Gutenberg{~TRADE MARK SIGN~} License when you
 share it without charge with others.
@@ -11305,24 +11308,27 @@ is associated) is accessed, displayed, performed, viewed, copied or
 distributed:
 
 
-    This eBook is for the use of anyone anywhere at no cost and with
-    almost no restrictions whatsoever. You may copy it, give it away
-    or re-use it under the terms of the Project Gutenberg License
-    included with this eBook or online at http://www.gutenberg.org
+    This ebook is for the use of anyone anywhere in the United States
+    and most other parts of the world at no cost and with almost no
+    restrictions whatsoever. You may copy it, give it away or re-use
+    it under the terms of the Project Gutenberg License included with
+    this ebook or online at http://www.gutenberg.org. If you are not
+    located in the United States, you'll have to check the laws of the
+    country where you are located before using this ebook.
 
 
 1.E.2.
 
 
-If an individual Project Gutenberg{~TRADE MARK SIGN~} electronic work is derived from the
-public domain (does not contain a notice indicating that it is posted with
-permission of the copyright holder), the work can be copied and
-distributed to anyone in the United States without paying any fees or
-charges. If you are redistributing or providing access to a work with the
-phrase "Project Gutenberg" associated with or appearing on the work, you
-must comply either with the requirements of paragraphs 1.E.1 through 1.E.7
-or obtain permission for the use of the work and the Project Gutenberg{~TRADE MARK SIGN~}
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+If an individual Project Gutenberg{~TRADE MARK SIGN~} electronic work is derived from texts
+not protected by U.S. copyright law (does not contain a notice indicating
+that it is posted with permission of the copyright holder), the work can
+be copied and distributed to anyone in the United States without paying
+any fees or charges. If you are redistributing or providing access to a
+work with the phrase "Project Gutenberg" associated with or appearing on
+the work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the Project
+Gutenberg{~TRADE MARK SIGN~} trademark as set forth in paragraphs 1.E.8 or 1.E.9.
 
 
 1.E.3.
@@ -11383,7 +11389,7 @@ with paragraph 1.E.8 or 1.E.9.
 You may charge a reasonable fee for copies of or providing access to or
 distributing Project Gutenberg{~TRADE MARK SIGN~} electronic works provided that
 
-      You pay a royalty fee of 20% of the gross profits you derive from
+    - You pay a royalty fee of 20% of the gross profits you derive from
       the use of Project Gutenberg{~TRADE MARK SIGN~} works calculated using the method you
       already use to calculate your applicable taxes. The fee is owed to
       the owner of the Project Gutenberg{~TRADE MARK SIGN~} trademark, but he has agreed to
@@ -11396,19 +11402,19 @@ distributing Project Gutenberg{~TRADE MARK SIGN~} electronic works provided that
       "Information about donations to the Project Gutenberg Literary
       Archive Foundation."
 
-      You provide a full refund of any money paid by a user who notifies
+    - You provide a full refund of any money paid by a user who notifies
       you in writing (or by e-mail) within 30 days of receipt that s/he
       does not agree to the terms of the full Project Gutenberg{~TRADE MARK SIGN~} License.
       You must require such a user to return or destroy all copies of the
       works possessed in a physical medium and discontinue all use of and
       all access to other copies of Project Gutenberg{~TRADE MARK SIGN~} works.
 
-      You provide, in accordance with paragraph 1.F.3, a full refund of
+    - You provide, in accordance with paragraph 1.F.3, a full refund of
       any money paid for a work or a replacement copy, if a defect in the
       electronic work is discovered and reported to you within 90 days of
       receipt of the work.
 
-      You comply with all other terms of this agreement for free
+    - You comply with all other terms of this agreement for free
       distribution of Project Gutenberg{~TRADE MARK SIGN~} works.
 
 
@@ -11418,9 +11424,9 @@ distributing Project Gutenberg{~TRADE MARK SIGN~} electronic works provided that
 If you wish to charge a fee or distribute a Project Gutenberg{~TRADE MARK SIGN~} electronic
 work or group of works on different terms than are set forth in this
 agreement, you must obtain permission in writing from both the Project
-Gutenberg Literary Archive Foundation and Michael Hart, the owner of the
-Project Gutenberg{~TRADE MARK SIGN~} trademark. Contact the Foundation as set forth in
-Section 3 below.
+Gutenberg Literary Archive Foundation and The Project Gutenberg Trademark
+LLC, the owner of the Project Gutenberg{~TRADE MARK SIGN~} trademark. Contact the Foundation
+as set forth in Section 3 below.
 
 
 1.F.
@@ -11430,14 +11436,14 @@ Section 3 below.
 
 
 Project Gutenberg volunteers and employees expend considerable effort to
-identify, do copyright research on, transcribe and proofread public domain
-works in creating the Project Gutenberg{~TRADE MARK SIGN~} collection. Despite these
-efforts, Project Gutenberg{~TRADE MARK SIGN~} electronic works, and the medium on which they
-may be stored, may contain "Defects," such as, but not limited to,
-incomplete, inaccurate or corrupt data, transcription errors, a copyright
-or other intellectual property infringement, a defective or damaged disk
-or other medium, a computer virus, or computer codes that damage or cannot
-be read by your equipment.
+identify, do copyright research on, transcribe and proofread works not
+protected by U.S. copyright law in creating the Project Gutenberg{~TRADE MARK SIGN~}
+collection. Despite these efforts, Project Gutenberg{~TRADE MARK SIGN~} electronic works,
+and the medium on which they may be stored, may contain "Defects," such
+as, but not limited to, incomplete, inaccurate or corrupt data,
+transcription errors, a copyright or other intellectual property
+infringement, a defective or damaged disk or other medium, a computer
+virus, or computer codes that damage or cannot be read by your equipment.
 
 
 1.F.2.
@@ -11547,13 +11553,13 @@ http://www.gutenberg.org/fundraising/pglaf. Contributions to the Project
 Gutenberg Literary Archive Foundation are tax deductible to the full
 extent permitted by U.S. federal laws and your state's laws.
 
-The Foundation's principal office is located at 4557 Melan Dr.
-S. Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations. Its business office is located at 809 North
-1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org. Email contact links and up to date contact information
-can be found at the Foundation's web site and official page at
-http://www.pglaf.org
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its volunteers
+and employees are scattered throughout numerous locations. Its business
+office is located at 809 North 1500 West, Salt Lake City, UT 84116, (801)
+596-1887, email business@pglaf.org. Email contact links and up to date
+contact information can be found at the Foundation's web site and official
+page at http://www.pglaf.org
 
 For additional contact information:
 
@@ -11584,7 +11590,7 @@ effort, much paperwork and many fees to meet and keep up with these
 requirements. We do not solicit donations in locations where we have not
 received written confirmation of compliance. To SEND DONATIONS or
 determine the status of compliance for any particular state visit
-http://www.gutenberg.org/fundraising/donate
+http://www.gutenberg.org/donate
 
 While we cannot and do not solicit contributions from states where we have
 not met the solicitation requirements, we know of no prohibition against
@@ -11598,7 +11604,7 @@ United States. U.S. laws alone swamp our small staff.
 Please check the Project Gutenberg Web pages for current donation methods
 and addresses. Donations are accepted in a number of other ways including
 checks, online payments and credit card donations. To donate, please
-visit: http://www.gutenberg.org/fundraising/donate
+visit: http://www.gutenberg.org/donate
 
 
 Section 5.
@@ -11613,17 +11619,17 @@ anyone. For thirty years, he produced and distributed Project Gutenberg{~TRADE M
 eBooks with only a loose network of volunteer support.
 
 Project Gutenberg{~TRADE MARK SIGN~} eBooks are often created from several printed editions,
-all of which are confirmed as Public Domain in the U.S. unless a copyright
-notice is included. Thus, we do not necessarily keep eBooks in compliance
-with any particular paper edition.
+all of which are confirmed as not protected by copyright in the U.S.
+unless a copyright notice is included. Thus, we do not necessarily keep
+ebooks in compliance with any particular paper edition.
 
-Each eBook is in a subdirectory of the same number as the eBook's eBook
+Each ebook is in a subdirectory of the same number as the ebook's ebook
 number, often in several formats including plain vanilla ASCII, compressed
 (zipped), HTML and others.
 
-Corrected _editions_ of our eBooks replace the old file and take over the
+Corrected _editions_ of our ebooks replace the old file and take over the
 old filename and etext number. The replaced older file is renamed.
-_Versions_ based on separate sources are treated as new eBooks receiving
+_Versions_ based on separate sources are treated as new ebooks receiving
 new filenames and etext numbers.
 
 Most people start at our Web site which has the main PG search facility:
@@ -11634,8 +11640,8 @@ Most people start at our Web site which has the main PG search facility:
 
 This Web site includes information about Project Gutenberg{~TRADE MARK SIGN~}, including how
 to make donations to the Project Gutenberg Literary Archive Foundation,
-how to help produce our new eBooks, and how to subscribe to our email
-newsletter to hear about new eBooks.
+how to help produce our new ebooks, and how to subscribe to our email
+newsletter to hear about new ebooks.
 
 
 
